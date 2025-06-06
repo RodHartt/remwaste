@@ -51,7 +51,9 @@ REMWASTE-WEB/
 │   │   ├── components/      # Reusable UI components
 │   │   │   ├── Button.jsx
 │   │   │   ├── ContainerBox.jsx
-│   │   │   └── FadeInSection.jsx
+│   │   │   ├── FadeInSection.jsx
+│   │   │   ├─── SelectedFooter.jsx
+│   │   │   └──── ChatBubble.jsx
 │   │   └── icons/           # Custom SVG icon components
 │   │       └── AlertTriangleIcon.jsx
 │   ├── Dockerfile           # Production build container definition
