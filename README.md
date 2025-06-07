@@ -1,6 +1,6 @@
 # 🟨 REMWASTE - Skip Selection Frontend
 
-This is a modern, animated skip booking frontend built with:
+This is a modern, animated skip booking frontend with dark and clear mode built with:
 
 - **Next.js (App Router)**
 - **Tailwind CSS**
